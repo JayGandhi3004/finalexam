@@ -48,12 +48,12 @@ const Product = () => {
         </div>
 
         <div className="mb-3">
-          <label htmlFor="exampleFormControlInput1" className="form-label ">Product Name:</label>
+          <label htmlFor="exampleFormControlInput1" className="form-label ">Description:</label>
           <input type="text" className="form-control" id="exampleFormControlInput1" placeholder='desc' name='desc' onChange={changedata} />
         </div>
 
         <div className="mb-3">
-          <label htmlFor="exampleFormControlInput1" className="form-label ">Product Name:</label>
+          <label htmlFor="exampleFormControlInput1" className="form-label ">Price:</label>
           <input type="text" className="form-control" id="exampleFormControlInput1" placeholder='price' name='price' onChange={changedata} />
         </div>
 
