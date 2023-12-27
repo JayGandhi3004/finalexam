@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "productname": "rtyu",
+      "desc": "oijhbvc",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "productname": "ertyujklkjnbvc",
+      "desc": "fghj",
+      "price": 25
+    },
+    {
+      "id": 4,
+      "productname": "jhgf",
+      "desc": "hjk",
+      "price": 25
+    },
+    {
+      "productname": "4r5tyuio",
+      "desc": "r5t6yuiop",
+      "price": "0099",
+      "id": 5
+    }
+  ]
+}
